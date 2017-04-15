@@ -1,0 +1,12 @@
+<templateSet group="reznichenka">
+  <template name="singleton" value="private $current_class$() {}&#10;&#10;private static final class SingletonHolder {&#10;    private static final $current_class$ INSTANCE = new $current_class$();&#10;    private SingletonHolder() {}&#10;}&#10;&#10;public static $current_class$ getInstance() {&#10;    return SingletonHolder.INSTANCE;&#10;}" description="" toReformat="true" toShortenFQNames="false" useStaticImport="true">
+    <variable name="current_class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>
