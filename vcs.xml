@@ -30,8 +30,12 @@
           <option name="url" value="git@github.com:iharReznichenka1/spring-petclinic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:RuslanMost/JMP_Tasks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\opensource" />
+    <option name="cloneParentDir" value="H:\projects" />
   </component>
 </application>
