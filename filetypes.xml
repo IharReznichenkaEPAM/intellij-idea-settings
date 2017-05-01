@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
       <mapping ext="impl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
