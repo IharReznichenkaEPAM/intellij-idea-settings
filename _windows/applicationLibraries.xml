@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="platform_lib">
+      <CLASSES>
+        <root url="file://H:/y63/hybris/bin/platform/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://H:/y63/hybris/bin/platform/lib" recursive="false" />
+    </library>
+  </component>
+</application>
