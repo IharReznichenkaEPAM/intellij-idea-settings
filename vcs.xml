@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/dargiri/spring-mvc-java8-web-app-template" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sdeleuze/spring-boot-kotlin-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\projects" />
