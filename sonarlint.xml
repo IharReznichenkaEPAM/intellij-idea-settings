@@ -1,0 +1,19 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.130.116.111:9000" />
+          <token />
+          <option name="name" value="Amway" />
+          <option name="enableProxy" value="true" />
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.99.100:9000" />
+          <token>df9adf98dfc9df9edf9edf92df9edfcedf99df92dfc8dfc9df92df92df93dfc8dfc8df9adf9adfccdf99dfcbdf9adf93dfc8df9cdf93dfc9df93dfc9dfcfdf9ddf9adfcbdfc8df9edf92df92df93df92</token>
+          <option name="name" value="local" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

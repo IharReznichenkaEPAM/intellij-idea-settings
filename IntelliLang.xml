@@ -1,29 +1,16 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="SQL" injector-id="java">
-      <display-name>Connection (java.sql)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Connection"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Connection"))]]></place>
-    </injection>
     <injection language="XML" injector-id="xml">
-      <display-name>configuration</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("configuration")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
+      <display-name>BusinessCard</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("BusinessCard"))]]></place>
     </injection>
     <injection language="RegExp" injector-id="xml">
       <display-name>constructor-arg/@value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("constructor-arg")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
     </injection>
-    <injection language="RegExp" injector-id="xml">
-      <display-name>property/@value</display-name>
-      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    <injection language="XML" injector-id="xml">
+      <display-name>item</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("item"))]]></place>
     </injection>
   </component>
 </application>

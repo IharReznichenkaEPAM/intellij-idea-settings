@@ -3,22 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>a*.properties</mask>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
+      <mask>*.zml</mask>
+      <mask>*.zm</mask>
+      <mask>*.z</mask>
+      <mask>*.xm</mask>
+      <mask>*.jav</mask>
+      <mask>*i.xml</mask>
+      <mask>*it.xml</mask>
+      <mask>*ite.xml</mask>
+      <mask>*ixml</mask>
+      <mask>*xml</mask>
+      <mask>*item.xml</mask>
+      <mask>*items.xml.xml</mask>
+      <mask>*items.xm.xml</mask>
+      <mask>*items.x.xml</mask>
+      <mask>*items..xml</mask>
+      <mask>*items.xml</mask>
+      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
+      <mask>*.j</mask>
+      <mask>*.xsd</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.i</mask>
+      <mask>*.im</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,9 +1,15 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/42abd8c6_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/9f6330fe_.xml" />
-    <resource url="http://www.w3.org/2005/05/xmlmime" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/63cc5dd9_xmlmime.xml" />
-    <resource url="https://www.zkoss.org/2005/zul/zul.xsd" location="file:$USER_HOME$/.IntelliJIdea2017.2/system/plugins/zkidea/classes/org/zkoss/zkidea/lang/resources/zul.xsd" />
-    <ignored-resource url="http://jmp.epam.com/cluster/schemas" />
+    <resource url="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/464d195c_archetype-catalog-1.0.0.xsd" />
+    <resource url="http://update.zeroturnaround.com/jrebel/rebel-2_1.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/20b583dc_rebel-2_1.xsd" />
+    <resource url="http://www.hybris.com/schema/cockpitng/action-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7e5ac4d0_action-definition.xsd" />
+    <resource url="http://www.hybris.com/schema/cockpitng/editor-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/ba9a6cb9_editor-definition.xsd" />
+    <resource url="http://www.hybris.com/schema/cockpitng/widget-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/c0498b02_widget-definition.xsd" />
+    <resource url="http://www.hybris.com/schema/cockpitng/widgets.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/ae547d75_widgets.xsd" />
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_2.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/1516d131_configuration_1_2.dtd" />
+    <resource url="http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/8ff37141_rebel-2_0.xsd" />
+    <resource url="http://www.zkoss.org/2005/zk/client" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a96c2de1_client.html" />
+    <resource url="http://www.zkoss.org/2005/zul/zul.xsd" location="file:$USER_HOME$/.IntelliJIdea2016.3/system/plugins/zkidea/classes/org/zkoss/zkidea/lang/resources/zul.xsd" />
+    <resource url="https://www.zkoss.org/2005/zul/zul.xsd" location="file:$USER_HOME$/.IntelliJIdea2017.1/system/plugins/zkidea/classes/org/zkoss/zkidea/lang/resources/zul.xsd" />
   </component>
 </application>

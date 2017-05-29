@@ -1,12 +1,12 @@
 <application>
   <component name="HybrisApplicationSettings">
+    <option name="createBackwardCyclicDependenciesForAddOns" value="true" />
+    <option name="hybrisHostUrl" value="https://127.0.0.1:9002" />
     <option name="usedActions">
       <set>
         <option value="IMPORT_PROJECT" />
         <option value="REFRESH_PROJECT" />
         <option value="OPEN_PROJECT" />
-        <option value="ANT" />
-        <option value="OPEN_POTENTIAL_PROJECT" />
       </set>
     </option>
   </component>
