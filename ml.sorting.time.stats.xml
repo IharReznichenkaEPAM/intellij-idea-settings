@@ -2,10 +2,10 @@
   <component name="SortingTimeStatistics">
     <option name="totalSortsByTime">
       <list>
-        <option value="123" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
+        <option value="1968" />
+        <option value="11" />
+        <option value="2" />
+        <option value="1" />
         <option value="0" />
         <option value="0" />
         <option value="0" />
@@ -16,30 +16,30 @@
     </option>
     <option name="avgSortingTimeByN">
       <list>
-        <option value="1.0487804878048772" />
+        <option value="0.6974833076527994" />
+        <option value="46.285714285714285" />
+        <option value="66.6" />
+        <option value="94.33333333333333" />
+        <option value="87.75" />
+        <option value="102.0" />
+        <option value="124.4" />
         <option value="0.0" />
         <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
-        <option value="0.0" />
+        <option value="317.0" />
       </list>
     </option>
     <option name="totalSortsByN">
       <list>
-        <option value="123" />
+        <option value="1947" />
+        <option value="14" />
+        <option value="5" />
+        <option value="3" />
+        <option value="4" />
+        <option value="3" />
+        <option value="5" />
         <option value="0" />
         <option value="0" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
-        <option value="0" />
+        <option value="1" />
       </list>
     </option>
   </component>
