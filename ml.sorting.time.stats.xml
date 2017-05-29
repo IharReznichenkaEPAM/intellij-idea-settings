@@ -1,0 +1,46 @@
+<application>
+  <component name="SortingTimeStatistics">
+    <option name="totalSortsByTime">
+      <list>
+        <option value="123" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+      </list>
+    </option>
+    <option name="avgSortingTimeByN">
+      <list>
+        <option value="1.0487804878048772" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+        <option value="0.0" />
+      </list>
+    </option>
+    <option name="totalSortsByN">
+      <list>
+        <option value="123" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+        <option value="0" />
+      </list>
+    </option>
+  </component>
+</application>
