@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*.zm</mask>
       <mask>*.z</mask>
@@ -29,11 +30,11 @@
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
-      <mask>*.impex</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
