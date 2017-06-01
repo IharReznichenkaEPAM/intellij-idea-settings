@@ -1,15 +1,14 @@
 <scheme name="Darcula Ihar" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.5" />
   <metaInfo>
-    <property name="modified">2017-02-15T09:58:07</property>
+    <property name="modified">2017-06-01T10:09:21</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <attributes>
     <option name="KOTLIN_ANNOTATION">
       <value>
