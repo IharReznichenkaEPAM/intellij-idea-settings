@@ -126,4 +126,7 @@
     </option>
     <option name="cloneParentDir" value="D:\projects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:/" />
+  </component>
 </application>
