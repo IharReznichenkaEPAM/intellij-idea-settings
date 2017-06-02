@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.jav</mask>
       <mask>*i.xml</mask>
       <mask>*it.xml</mask>
       <mask>*ite.xml</mask>
@@ -29,12 +28,13 @@
       <mask>*.properties</mask>
       <mask>*.imp</mask>
       <mask>*.i</mask>
-      <mask>*.im</mask>
-      <mask>*.impex</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.im</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
