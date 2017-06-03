@@ -2,8 +2,8 @@
   <component name="SortingTimeStatistics">
     <option name="totalSortsByTime">
       <list>
-        <option value="3732" />
-        <option value="12" />
+        <option value="4253" />
+        <option value="13" />
         <option value="4" />
         <option value="1" />
         <option value="0" />
@@ -16,9 +16,9 @@
     </option>
     <option name="avgSortingTimeByN">
       <list>
-        <option value="0.7171141849742335" />
-        <option value="33.83783783783784" />
-        <option value="66.6" />
+        <option value="0.7654909437559577" />
+        <option value="34.729166666666664" />
+        <option value="88.42857142857143" />
         <option value="77.4" />
         <option value="111.0" />
         <option value="126.5" />
@@ -30,9 +30,9 @@
     </option>
     <option name="totalSortsByN">
       <list>
-        <option value="3687" />
-        <option value="37" />
-        <option value="5" />
+        <option value="4196" />
+        <option value="48" />
+        <option value="7" />
         <option value="5" />
         <option value="5" />
         <option value="4" />
