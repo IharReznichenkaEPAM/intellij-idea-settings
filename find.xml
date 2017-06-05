@@ -5,17 +5,13 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.imp</mask>
-      <mask>*.i</mask>
       <mask>*.impe</mask>
       <mask>*.mpex</mask>
       <mask>*.pex</mask>
       <mask>*.ex</mask>
-      <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
       <mask>X</mask>
       <mask>XM</mask>
       <mask>XML</mask>
@@ -32,8 +28,12 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
