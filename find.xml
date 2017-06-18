@@ -3,28 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*content*.impex" />
     <recentFileMasks>
-      <mask>*.o</mask>
-      <mask>*.p</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.xmll</mask>
-      <mask>*</mask>
-      <mask>*.xnk</mask>
       <mask>*.xn</mask>
       <mask>*,x</mask>
       <mask>*,</mask>
-      <mask>*.xm</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
-      <mask>*.impex</mask>
       <mask>*.impe</mask>
-      <mask>*.imp</mask>
-      <mask>*.im</mask>
       <mask>*.i</mask>
       <mask>*.tag</mask>
       <mask>*.ta</mask>
@@ -32,9 +19,22 @@
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.im</mask>
+      <mask>*.imp</mask>
+      <mask>*C=c.impex</mask>
+      <mask>*C=.impex</mask>
+      <mask>*C.impex</mask>
+      <mask>*.impex</mask>
+      <mask>*c.impex</mask>
+      <mask>*co.impex</mask>
+      <mask>*con.impex</mask>
+      <mask>*conte.impex</mask>
+      <mask>*content.impex</mask>
+      <mask>*content*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
