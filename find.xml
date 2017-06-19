@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*,x</mask>
-      <mask>*,</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
-      <mask>*.impe</mask>
-      <mask>*.i</mask>
       <mask>*.tag</mask>
       <mask>*.ta</mask>
       <mask>*.t</mask>
@@ -22,9 +16,6 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.im</mask>
-      <mask>*.imp</mask>
       <mask>*C=c.impex</mask>
       <mask>*C=.impex</mask>
       <mask>*C.impex</mask>
@@ -36,6 +27,16 @@
       <mask>*content*.impex</mask>
       <mask>.impex</mask>
       <mask>*.impex</mask>
+      <mask>*.imp</mask>
+      <mask>*.im</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
