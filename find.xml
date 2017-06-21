@@ -1,20 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.tag</mask>
-      <mask>*.ta</mask>
-      <mask>*.t</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*C=c.impex</mask>
       <mask>*C=.impex</mask>
@@ -26,16 +15,24 @@
       <mask>*content.impex</mask>
       <mask>*content*.impex</mask>
       <mask>.impex</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.impiex</mask>
+      <mask>*.impie=</mask>
+      <mask>*.impie</mask>
+      <mask>*.impi</mask>
       <mask>*.impex</mask>
+      <mask>*.impe</mask>
       <mask>*.imp</mask>
       <mask>*.im</mask>
       <mask>*.i</mask>
       <mask>*.</mask>
-      <mask>*.pro</mask>
-      <mask>*.prope</mask>
+      <mask>*.p</mask>
+      <mask>*.prop</mask>
       <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
+      <mask>*.propert</mask>
       <mask>*.properties</mask>
     </recentFileMasks>
   </component>
