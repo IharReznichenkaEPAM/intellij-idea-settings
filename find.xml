@@ -3,15 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*-beans.xml" />
     <recentFileMasks>
-      <mask>*.x</mask>
-      <mask>*C=c.impex</mask>
-      <mask>*C=.impex</mask>
-      <mask>*C.impex</mask>
-      <mask>*c.impex</mask>
-      <mask>*co.impex</mask>
-      <mask>*con.impex</mask>
-      <mask>*conte.impex</mask>
       <mask>*content.impex</mask>
       <mask>*content*.impex</mask>
       <mask>.impex</mask>
@@ -34,6 +27,14 @@
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
+      <mask>*-.properties</mask>
+      <mask>*-be.properties</mask>
+      <mask>*-bea.properties</mask>
+      <mask>*-bean.properties</mask>
+      <mask>*-beans.properties</mask>
+      <mask>*-beans.x</mask>
+      <mask>*-beans.xm</mask>
+      <mask>*-beans.xml</mask>
     </recentFileMasks>
   </component>
 </application>
