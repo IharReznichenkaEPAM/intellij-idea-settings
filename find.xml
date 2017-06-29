@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.pro</mask>
       <mask>*.prope</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
@@ -14,11 +16,9 @@
       <mask>*.impie=</mask>
       <mask>*.impie</mask>
       <mask>*.impi</mask>
-      <mask>*.impex</mask>
       <mask>*.impe</mask>
       <mask>*.imp</mask>
       <mask>*.im</mask>
-      <mask>*.i</mask>
       <mask>*.prop</mask>
       <mask>*.propert</mask>
       <mask>*-.properties</mask>
@@ -29,13 +29,16 @@
       <mask>*-beans.x</mask>
       <mask>*-beans.xm</mask>
       <mask>*-beans.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
