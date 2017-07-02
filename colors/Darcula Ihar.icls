@@ -1,11 +1,11 @@
 <scheme name="Darcula Ihar" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-07-02T00:42:05</property>
+    <property name="modified">2017-07-02T16:46:26</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
