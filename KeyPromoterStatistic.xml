@@ -14,7 +14,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+J'</ShortCut>
           <Description>Close Project</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Project">
@@ -54,7 +54,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
