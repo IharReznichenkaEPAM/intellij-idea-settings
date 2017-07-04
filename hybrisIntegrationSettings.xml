@@ -1,14 +1,10 @@
 <application>
   <component name="HybrisApplicationSettings">
     <option name="allowedSendingPlainStatistics" value="true" />
-    <option name="createBackwardCyclicDependenciesForAddOns" value="true" />
-    <option name="hybrisHostUrl" value="https://127.0.0.1:9002" />
     <option name="usedActions">
       <set>
         <option value="IMPORT_PROJECT" />
-        <option value="REFRESH_PROJECT" />
         <option value="OPEN_PROJECT" />
-        <option value="IMPEX_TABLE_FORMAT" />
       </set>
     </option>
   </component>
