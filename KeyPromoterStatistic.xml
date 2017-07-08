@@ -30,7 +30,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+J'</ShortCut>
           <Description>Close Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -52,7 +52,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -60,6 +60,14 @@
           <ShortCut>'Shift+F7'</ShortCut>
           <Description>Previous Difference</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reset Task File">
+        <Item>
+          <IdeaActionID>RefreshTaskAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+X'</ShortCut>
+          <Description>Reset Task File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
