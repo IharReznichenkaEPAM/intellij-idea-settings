@@ -14,7 +14,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Enter'</ShortCut>
           <Description>Check Task</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -52,7 +52,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -75,7 +75,7 @@
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
