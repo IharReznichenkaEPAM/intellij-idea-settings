@@ -14,7 +14,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Enter'</ShortCut>
           <Description>Check Task</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -52,7 +52,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
-          <Count>8</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -75,7 +75,7 @@
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -91,6 +91,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
