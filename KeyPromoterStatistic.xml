@@ -40,6 +40,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Difference">
         <Item>
           <ShortCut>'F7'</ShortCut>
@@ -52,7 +60,7 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
-          <Count>18</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -70,6 +78,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Previous Task">
+        <Item>
+          <IdeaActionID>PreviousTaskAction</IdeaActionID>
+          <ShortCut>'Ctrl+Comma'</ShortCut>
+          <Description>Previous Task</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -83,7 +99,7 @@
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
