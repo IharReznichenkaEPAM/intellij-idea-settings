@@ -14,7 +14,7 @@
           <IdeaActionID>Edu.Check</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Enter'</ShortCut>
           <Description>Check Task</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -30,7 +30,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+J'</ShortCut>
           <Description>Close Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -38,6 +38,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -52,7 +60,15 @@
           <IdeaActionID>NextTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
-          <Count>5</Count>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -62,12 +78,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Previous Task">
+        <Item>
+          <IdeaActionID>PreviousTaskAction</IdeaActionID>
+          <ShortCut>'Ctrl+Comma'</ShortCut>
+          <Description>Previous Task</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reset Task File">
         <Item>
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Reset Task File</Description>
-          <Count>1</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -83,6 +115,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
