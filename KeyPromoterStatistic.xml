@@ -22,7 +22,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -42,10 +42,9 @@
       </Statistic>
       <Statistic Action="Hide">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -100,6 +99,14 @@
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Reset Task File</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'by.reznichenka.corou...'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'by.reznichenka.corou...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
