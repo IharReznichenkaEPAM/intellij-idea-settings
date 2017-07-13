@@ -2,6 +2,8 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Alt+Shift+O'" value="1" />
+        <entry key="'Ctrl+Alt+Z'" value="1" />
         <entry key="'Ctrl+T'" value="3" />
       </map>
     </option>
