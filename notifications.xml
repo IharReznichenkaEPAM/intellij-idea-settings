@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Configure Kotlin: info notification" displayType="NONE" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" />
+  </component>
+</application>
