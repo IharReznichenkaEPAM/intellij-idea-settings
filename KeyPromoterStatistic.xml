@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -47,6 +47,14 @@
           <ShortCut>'Alt+J'</ShortCut>
           <Description>Close Project</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Configuration">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Copy Configuration</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -60,7 +68,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -141,6 +149,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JhipsterApp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -149,12 +165,36 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '[migrateProducts] NORWAY'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '[migrateProducts] NORWAY'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '[migrateProducts] SWEDEN'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '[migrateProducts] SWEDEN'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.epam.datamigrati...'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'com.epam.datamigrati...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
