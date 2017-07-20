@@ -34,7 +34,6 @@
       </Statistic>
       <Statistic Action="Close">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Shift+F4'</ShortCut>
           <Description>Close</Description>
           <Count>1</Count>
@@ -45,7 +44,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -68,7 +67,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'com.epam.datamigration.product...'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -78,11 +77,19 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+Shift+8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide">
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -147,6 +154,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reset Task File">
         <Item>
           <IdeaActionID>RefreshTaskAction</IdeaActionID>
@@ -160,7 +175,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -207,7 +222,7 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -215,7 +230,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigration.product...'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -241,6 +256,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -262,7 +285,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
