@@ -3,7 +3,6 @@
     <option name="statistics">
       <Statistic Action="Add">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add</Description>
           <Count>1</Count>
@@ -38,7 +37,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -51,7 +50,6 @@
       </Statistic>
       <Statistic Action="Copy Configuration">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Copy Configuration</Description>
           <Count>3</Count>
@@ -183,10 +181,9 @@
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigrati...'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
