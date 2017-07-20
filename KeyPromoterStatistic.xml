@@ -37,7 +37,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -191,7 +191,7 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -199,7 +199,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigration.product...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -207,7 +207,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
