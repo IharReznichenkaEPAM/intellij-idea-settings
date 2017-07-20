@@ -44,7 +44,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -122,7 +122,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>5</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
