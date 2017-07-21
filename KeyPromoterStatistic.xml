@@ -44,7 +44,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -60,7 +60,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -105,7 +105,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -261,7 +261,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigration.product...'</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
