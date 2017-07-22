@@ -13,7 +13,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -44,7 +44,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -53,6 +53,14 @@
           <ShortCut>'Alt+J'</ShortCut>
           <Description>Close Project</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -82,7 +90,7 @@
         <Item>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -97,7 +105,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -184,6 +192,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
