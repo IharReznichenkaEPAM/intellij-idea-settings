@@ -57,7 +57,6 @@
       </Statistic>
       <Statistic Action="Collapse All">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
           <Description>Collapse All</Description>
           <Count>1</Count>
@@ -196,7 +195,6 @@
       </Statistic>
       <Statistic Action="Revert">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert</Description>
           <Count>1</Count>
@@ -341,7 +339,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
