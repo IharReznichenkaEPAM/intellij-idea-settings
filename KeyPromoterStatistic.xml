@@ -44,7 +44,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>20</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -67,13 +67,21 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
         <Item>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Copy Configuration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -100,11 +108,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+Shift+7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide">
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>42</Count>
+          <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="In Project">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+P'</ShortCut>
+          <Description>In Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -197,7 +221,7 @@
         <Item>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -205,7 +229,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -252,7 +276,7 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -268,7 +292,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -280,7 +304,6 @@
       </Statistic>
       <Statistic Action="Show Filter Popup">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>Show Filter Popup</Description>
           <Count>1</Count>
