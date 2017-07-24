@@ -5,7 +5,7 @@
         <Item>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -13,7 +13,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -44,7 +44,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>14</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -55,12 +55,19 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -82,7 +89,7 @@
         <Item>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -97,7 +104,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>31</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -143,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -184,6 +191,13 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert">
+        <Item>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -254,7 +268,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -262,6 +276,14 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Filter Popup">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Alt+F'</ShortCut>
+          <Description>Show Filter Popup</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.epam.datamigration.products.converter.LinkToProductUrlConversionHandlerSpec'">
@@ -285,7 +307,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -317,7 +339,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -325,7 +347,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
