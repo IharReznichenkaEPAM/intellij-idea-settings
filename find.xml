@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Wizard*.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.p</mask>
@@ -26,6 +22,19 @@
       <mask>xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.aj</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*W.java</mask>
+      <mask>*.java</mask>
+      <mask>W*.java</mask>
+      <mask>Wiz*.java</mask>
+      <mask>Wiza*.java</mask>
+      <mask>Wizar*.java</mask>
+      <mask>Wizard*.java</mask>
+      <mask>*Wizard*.java</mask>
     </recentFileMasks>
   </component>
 </application>
