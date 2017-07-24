@@ -120,12 +120,11 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+P'</ShortCut>
           <Description>In Project</Description>
           <Count>1</Count>
