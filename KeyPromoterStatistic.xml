@@ -51,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>51</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -74,7 +74,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>19</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -174,7 +174,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>80</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -235,7 +235,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>8</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -243,14 +243,6 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Push...">
-        <Item>
-          <IdeaActionID>Vcs.Push</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+K'</ShortCut>
-          <Description>Push...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -313,7 +305,7 @@
         <Item>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert</Description>
-          <Count>6</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -321,7 +313,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>7</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -501,7 +493,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -517,7 +509,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>11</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
