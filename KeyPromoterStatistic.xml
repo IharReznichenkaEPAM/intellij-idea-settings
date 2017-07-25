@@ -51,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -124,6 +124,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'com.epam.datamigration.cmsdata...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'com.epam.datamigration.cmsdata...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'com.epam.datamigration.product...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -166,7 +174,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -424,6 +432,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.epam.datamigration.cmsdata.analyze.XmlDataStatisticsAnalyzeApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.epam.datamigration.cmsdata.analyze.XmlDataStatisticsAnalyzeApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.epam.datamigration.products.converter.LinkToProductUrlConversionHandlerSpec'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -461,7 +477,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
