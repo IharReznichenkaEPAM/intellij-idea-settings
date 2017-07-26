@@ -12,7 +12,7 @@
         <Item>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Annotate">
@@ -51,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -140,6 +140,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'news Sweden'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'news Sweden'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should generate ui...()'">
         <Item>
           <ShortCut>'Alt+D'</ShortCut>
@@ -197,6 +205,14 @@
           <ShortCut>'Ctrl+Period'</ShortCut>
           <Description>Next Task</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -321,7 +337,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JhipsterApp'">
@@ -375,7 +391,7 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -391,7 +407,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -485,7 +501,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>33</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
