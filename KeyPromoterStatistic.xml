@@ -20,7 +20,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -51,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
