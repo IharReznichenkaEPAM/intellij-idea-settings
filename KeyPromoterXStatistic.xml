@@ -48,6 +48,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FirstTest'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'FirstTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
