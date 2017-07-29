@@ -8,12 +8,19 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add New Configuration">
+        <Item>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add New Configuration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Annotate">
         <Item>
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>9</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -21,7 +28,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check Task">
@@ -44,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>20</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -59,7 +66,7 @@
         <Item>
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
           <Description>Collapse All</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -67,7 +74,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>3</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -77,12 +84,75 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'BusinessNews Finland with copy'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'BusinessNews Finland with copy'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Remote debug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Remote debug'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '[migrateNews] FINLAND with cop...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '[migrateNews] FINLAND with cop...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'com.epam.datamigration.cmsdata...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'com.epam.datamigration.cmsdata...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'com.epam.datamigration.product...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'com.epam.datamigration.product...'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'news Sweden'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'news Sweden'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'should generate ui...()'">
+        <Item>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'should generate ui...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -97,6 +167,14 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+Shift+7'</ShortCut>
+          <Description>Find Usages</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -104,7 +182,22 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>42</Count>
+          <Count>87</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="In Project">
+        <Item>
+          <ShortCut>'Alt+P'</ShortCut>
+          <Description>In Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Difference">
@@ -122,12 +215,28 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste from X clipboard">
         <Item>
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Pause Program">
+        <Item>
+          <IdeaActionID>Pause</IdeaActionID>
+          <ShortCut>'Alt+P'</ShortCut>
+          <Description>Pause Program</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -150,7 +259,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -161,12 +270,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Configuration">
+        <Item>
+          <ShortCut>'Alt+Delete'</ShortCut>
+          <Description>Remove Configuration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LynxNewsPrepareInterceptorSpec'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'LynxNewsPrepareInterceptorSpec'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'">
@@ -190,14 +322,14 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
         <Item>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -205,7 +337,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -213,7 +345,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JhipsterApp'">
@@ -221,6 +353,21 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'JhipsterApp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LynxNewsPrepareInterceptorSpec'">
+        <Item>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'LynxNewsPrepareInterceptorSpec'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '[migrateNews] FINLAND with cop...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '[migrateNews] FINLAND with cop...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -252,7 +399,7 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>9</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -268,7 +415,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Settings...</Description>
-          <Count>33</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -280,9 +427,48 @@
       </Statistic>
       <Statistic Action="Show Filter Popup">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>Show Filter Popup</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BusinessNews Finland with copy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BusinessNews Finland with copy'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LynxNewsPrepareInterceptorSpec.should generate uid when model is created with empty one'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'LynxNewsPrepareInterceptorSpec.should generate uid when model is created with empty one'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Remote debug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Remote debug'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.epam.datamigration.cmsdata.analyze.XmlDataStatisticsAnalyzeApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.epam.datamigration.cmsdata.analyze.XmlDataStatisticsAnalyzeApp'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -299,6 +485,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'com.epam.datamigration.products.converter.handler.LinkToAmwayEuropeUrlConversionHandlerSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'products Sweden'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'products Sweden'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -323,7 +517,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>12</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
@@ -331,7 +525,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -339,7 +533,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -347,7 +541,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
