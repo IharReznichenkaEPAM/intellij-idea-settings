@@ -59,7 +59,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -178,7 +178,6 @@
       </Statistic>
       <Statistic Action="Next Difference">
         <Item>
-          <IdeaActionID />
           <ShortCut>'F7'</ShortCut>
           <Description>Next Difference</Description>
           <Count>2</Count>
@@ -202,7 +201,6 @@
       </Statistic>
       <Statistic Action="Previous Difference">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Shift+F7'</ShortCut>
           <Description>Previous Difference</Description>
           <Count>1</Count>
@@ -282,7 +280,6 @@
       </Statistic>
       <Statistic Action="Show Diff">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Show Diff</Description>
           <Count>1</Count>
