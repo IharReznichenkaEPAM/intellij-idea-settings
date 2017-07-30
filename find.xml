@@ -12,7 +12,6 @@
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
       <mask>*Spec</mask>
       <mask>*Spec.</mask>
       <mask>*Spec.gr</mask>
@@ -20,12 +19,10 @@
       <mask>*Spec.groovy</mask>
       <mask>xml</mask>
       <mask>*xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.aj</mask>
       <mask>*.a</mask>
-      <mask>*.</mask>
       <mask>*W.java</mask>
       <mask>*.java</mask>
       <mask>W*.java</mask>
@@ -34,6 +31,9 @@
       <mask>Wizar*.java</mask>
       <mask>Wizard*.java</mask>
       <mask>*Wizard*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
