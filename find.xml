@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Spec.groovy</mask>
-      <mask>xml</mask>
-      <mask>*xml</mask>
-      <mask>*.aj</mask>
       <mask>*.a</mask>
       <mask>*W.java</mask>
       <mask>*.java</mask>
@@ -28,12 +24,16 @@
       <mask>&amp;.</mask>
       <mask>&amp;</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
       <mask>*.i</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
