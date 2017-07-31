@@ -1,19 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tld" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*news-migration*.impex" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*Spec</mask>
       <mask>*Spec.</mask>
       <mask>*Spec.gr</mask>
       <mask>*Spec.gro</mask>
       <mask>*Spec.groovy</mask>
       <mask>xml</mask>
       <mask>*xml</mask>
-      <mask>*.xm</mask>
       <mask>*.aj</mask>
       <mask>*.a</mask>
       <mask>*W.java</mask>
@@ -26,15 +23,18 @@
       <mask>*Wizard*.java</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.j</mask>
-      <mask>*.t</mask>
-      <mask>*.tl</mask>
-      <mask>*.tld</mask>
+      <mask>*.im</mask>
+      <mask>*.impex</mask>
+      <mask>new*.impex</mask>
+      <mask>news-*.impex</mask>
+      <mask>news-mi*.impex</mask>
+      <mask>news-mig*.impex</mask>
+      <mask>news-migr*.impex</mask>
+      <mask>news-migration*.impex</mask>
+      <mask>*news-migration*.impex</mask>
     </recentFileMasks>
   </component>
 </application>

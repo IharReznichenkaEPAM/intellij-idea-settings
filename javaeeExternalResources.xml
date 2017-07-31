@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/464d195c_archetype-catalog-1.0.0.xsd" />
     <resource url="http://update.zeroturnaround.com/jrebel/rebel-2_1.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/20b583dc_rebel-2_1.xsd" />
+    <resource url="http://www.eclipse.org/aspectj/dtd/aspectj.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/ae0883c5_aspectj.dtd" />
     <resource url="http://www.hybris.com/schema/cockpitng/action-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/7e5ac4d0_action-definition.xsd" />
     <resource url="http://www.hybris.com/schema/cockpitng/editor-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/ba9a6cb9_editor-definition.xsd" />
     <resource url="http://www.hybris.com/schema/cockpitng/widget-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/c0498b02_widget-definition.xsd" />
