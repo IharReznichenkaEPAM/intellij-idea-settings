@@ -51,7 +51,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>67</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Project">
@@ -74,7 +74,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>27</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Configuration">
@@ -164,7 +164,6 @@
       </Statistic>
       <Statistic Action="Directory">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Directory</Description>
           <Count>1</Count>
@@ -190,7 +189,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>102</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -198,7 +197,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="In Project">
@@ -210,7 +209,6 @@
       </Statistic>
       <Statistic Action="Module">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
           <Count>1</Count>
@@ -275,7 +273,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -353,7 +351,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -415,7 +413,15 @@
         <Item>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>21</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.epam.datamigration.keyword...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'com.epam.datamigration.keyword...'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.product...'">
@@ -423,7 +429,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigration.product...'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -438,13 +444,21 @@
         <Item>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Filter Popup">
         <Item>
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>Show Filter Popup</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
+          <ShortCut>'Alt+H'</ShortCut>
+          <Description>Show History</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
