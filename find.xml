@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>Wizar*.java</mask>
       <mask>Wizard*.java</mask>
@@ -27,7 +27,6 @@
       <mask>*.imp</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.impex</mask>
       <mask>*.i</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
@@ -35,6 +34,7 @@
       <mask>*.prop</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
