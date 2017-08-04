@@ -130,7 +130,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TaxPromoCouponsMPlusImpactedTe...'">
@@ -161,7 +161,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -266,7 +266,7 @@
           <IdeaActionID>Pause</IdeaActionID>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>Pause Program</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -344,7 +344,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Remote debug'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.epam.datamigration.products.ProductMigrationApp'">
@@ -368,7 +368,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>206</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -454,7 +454,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.epam.datamigration.products.ProductMigrationApp'">
@@ -493,7 +493,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>83</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
