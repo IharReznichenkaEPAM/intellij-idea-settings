@@ -28,7 +28,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+N'</ShortCut>
           <Description>Annotate</Description>
-          <Count>33</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -44,7 +44,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -52,7 +52,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>130</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -67,7 +67,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>42</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -90,7 +90,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>27</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -114,7 +114,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>11</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Integration Tests'">
@@ -130,7 +130,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>35</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TaxPromoCouponsMPlusImpactedTe...'">
@@ -161,7 +161,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -183,7 +183,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>14</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Excluded">
@@ -205,7 +205,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>178</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -266,7 +266,7 @@
           <IdeaActionID>Pause</IdeaActionID>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>Pause Program</Description>
-          <Count>11</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Difference">
@@ -289,7 +289,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...gSizeValidator.java'">
@@ -344,15 +344,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Remote debug'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'com.epam.datamigration.cmsdata.analyze.ComponentDataPerPageAnalyzeApp'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'com.epam.datamigration.cmsdata.analyze.ComponentDataPerPageAnalyzeApp'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.epam.datamigration.products.ProductMigrationApp'">
@@ -376,7 +368,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>225</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -391,7 +383,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>13</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigrati...'">
@@ -399,7 +391,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'com.epam.datamigrati...'</Description>
-          <Count>12</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.epam.datamigration.cmsdata...'">
@@ -426,13 +418,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Search History">
-        <Item>
-          <ShortCut>'Ctrl+H'</ShortCut>
-          <Description>Search History</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -445,7 +430,7 @@
         <Item>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -461,7 +446,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Remote debug'">
@@ -469,7 +454,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
-          <Count>26</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.epam.datamigration.products.ProductMigrationApp'">
@@ -508,15 +493,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>99</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Unshelve...">
-        <Item>
-          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+U'</ShortCut>
-          <Description>Unshelve...</Description>
-          <Count>1</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
@@ -540,7 +517,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>17</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
