@@ -205,7 +205,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>140</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
