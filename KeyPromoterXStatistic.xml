@@ -52,7 +52,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -177,7 +177,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -229,7 +229,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>172</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -257,7 +257,6 @@
       </Statistic>
       <Statistic Action="Module">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+M'</ShortCut>
           <Description>Module</Description>
           <Count>1</Count>
@@ -342,7 +341,6 @@
       </Statistic>
       <Statistic Action="Recursively">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Y'</ShortCut>
           <Description>Recursively</Description>
           <Count>1</Count>
@@ -474,6 +472,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diff">
         <Item>
           <ShortCut>'Button1 Double-Click'</ShortCut>
@@ -557,7 +563,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
