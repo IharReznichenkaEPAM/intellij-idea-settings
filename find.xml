@@ -3,38 +3,37 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>Wizar*.java</mask>
-      <mask>Wizard*.java</mask>
-      <mask>*Wizard*.java</mask>
-      <mask>new*.impex</mask>
-      <mask>news-*.impex</mask>
-      <mask>news-mi*.impex</mask>
-      <mask>news-mig*.impex</mask>
-      <mask>news-migr*.impex</mask>
-      <mask>news-migration*.impex</mask>
-      <mask>*news-migration*.impex</mask>
       <mask>&amp;.</mask>
       <mask>&amp;</mask>
       <mask>*.xm</mask>
-      <mask>*</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.x</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impex</mask>
+      <mask>*.x</mask>
+      <mask>s*.xml</mask>
+      <mask>sorubg*.xml</mask>
+      <mask>sorub*.xml</mask>
+      <mask>soru*.xml</mask>
+      <mask>sor*.xml</mask>
+      <mask>so*.xml</mask>
+      <mask>sp*.xml</mask>
+      <mask>spr*.xml</mask>
+      <mask>sprin*.xml</mask>
+      <mask>spring*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
