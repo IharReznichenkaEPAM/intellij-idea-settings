@@ -67,7 +67,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -138,7 +138,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Remote debug'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TaxPromoCouponsMPlusImpactedTe...'">
@@ -229,7 +229,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>197</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -414,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">
@@ -516,7 +516,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.epam.datamigration.cmsdata.analyze.ComponentDataPerPageAnalyzeApp'">
