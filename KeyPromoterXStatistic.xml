@@ -52,7 +52,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>155</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -202,6 +202,22 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude All">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Exclude All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Excluded">
         <Item>
           <ShortCut>'Alt+E'</ShortCut>
@@ -229,7 +245,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
