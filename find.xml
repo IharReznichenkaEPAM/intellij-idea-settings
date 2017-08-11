@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*Wizard*.java</mask>
       <mask>new*.impex</mask>
@@ -25,15 +26,15 @@
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
-      <mask>*.impex</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
