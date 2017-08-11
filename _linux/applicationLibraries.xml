@@ -1,9 +1,7 @@
 <application>
   <component name="libraryTable">
     <library name="bootstrap" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -11,9 +9,7 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.slim.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
