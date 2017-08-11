@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>Wizar*.java</mask>
-      <mask>Wizard*.java</mask>
       <mask>*Wizard*.java</mask>
       <mask>new*.impex</mask>
       <mask>news-*.impex</mask>
@@ -16,13 +15,11 @@
       <mask>*news-migration*.impex</mask>
       <mask>&amp;.</mask>
       <mask>&amp;</mask>
-      <mask>*.xm</mask>
       <mask>*</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.x</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
@@ -30,10 +27,14 @@
       <mask>*.properties</mask>
       <mask>*.i</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impex</mask>
+      <mask>*.xnk</mask>
+      <mask>*.xn</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
