@@ -5,7 +5,7 @@
         <Item>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Configuration">
@@ -52,7 +52,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -220,7 +220,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -243,6 +243,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Project Library">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>New Project Library</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -409,6 +417,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HelloKt'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'HelloKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'com.epam.datamigrati...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -476,7 +492,7 @@
         <Item>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Sources</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -531,7 +547,7 @@
         <Item>
           <ShortCut>'Alt+T'</ShortCut>
           <Description>Tests</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
