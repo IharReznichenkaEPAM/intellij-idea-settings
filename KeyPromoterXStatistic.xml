@@ -67,7 +67,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -142,7 +142,6 @@
       </Statistic>
       <Statistic Action="Debug 'com.epam.datamigrati...'">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Debug 'com.epam.datamigrati...'</Description>
           <Count>1</Count>
