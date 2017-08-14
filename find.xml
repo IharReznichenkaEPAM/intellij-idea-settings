@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="cms*.impex" />
     <recentFileMasks>
-      <mask>*Wizard*.java</mask>
-      <mask>new*.impex</mask>
-      <mask>news-*.impex</mask>
       <mask>news-mi*.impex</mask>
       <mask>news-mig*.impex</mask>
       <mask>news-migr*.impex</mask>
@@ -35,6 +32,9 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.impex</mask>
+      <mask>c*.impex</mask>
+      <mask>cm*.impex</mask>
+      <mask>cms*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
