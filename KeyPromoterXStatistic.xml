@@ -52,7 +52,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -361,6 +361,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lynxintegrationtest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
