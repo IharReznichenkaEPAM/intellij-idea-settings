@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'migration'" />
-    <option name="defaultScopeName" value="Module 'migration'" />
-    <option name="SEARCH_SCOPE" value="Module 'migration'" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="cache*.xml" />
     <recentFileMasks>
-      <mask>&amp;.</mask>
-      <mask>&amp;</mask>
-      <mask>*</mask>
-      <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
@@ -22,7 +18,6 @@
       <mask>*.imp</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
@@ -35,6 +30,11 @@
       <mask>ca*.impex</mask>
       <mask>c*.impex</mask>
       <mask>*.impex</mask>
+      <mask>*.xml</mask>
+      <mask>ca*.xml</mask>
+      <mask>cac*.xml</mask>
+      <mask>cach*.xml</mask>
+      <mask>cache*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
