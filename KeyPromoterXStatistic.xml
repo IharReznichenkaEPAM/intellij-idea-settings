@@ -67,7 +67,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -697,7 +697,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
