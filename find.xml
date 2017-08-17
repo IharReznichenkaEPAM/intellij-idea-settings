@@ -3,18 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.prop</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.i</mask>
-      <mask>*.im</mask>
-      <mask>*.imp</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
       <mask>*.xm</mask>
@@ -28,12 +20,21 @@
       <mask>cat*.impex</mask>
       <mask>ca*.impex</mask>
       <mask>c*.impex</mask>
-      <mask>*.impex</mask>
-      <mask>*.xml</mask>
       <mask>ca*.xml</mask>
       <mask>cac*.xml</mask>
       <mask>cach*.xml</mask>
       <mask>cache*.xml</mask>
+      <mask>*</mask>
+      <mask>*.xml</mask>
+      <mask>*.i</mask>
+      <mask>*.im</mask>
+      <mask>*.imprc</mask>
+      <mask>*.impr</mask>
+      <mask>*.imex</mask>
+      <mask>*.ime</mask>
+      <mask>*.imp</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
