@@ -1,39 +1,24 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>cms*.impex</mask>
-      <mask>catego*.impex</mask>
-      <mask>categ*.impex</mask>
-      <mask>cate*.impex</mask>
-      <mask>cat*.impex</mask>
-      <mask>ca*.impex</mask>
-      <mask>c*.impex</mask>
-      <mask>ca*.xml</mask>
-      <mask>cac*.xml</mask>
-      <mask>cach*.xml</mask>
-      <mask>cache*.xml</mask>
-      <mask>*</mask>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.imprc</mask>
-      <mask>*.impr</mask>
-      <mask>*.imex</mask>
-      <mask>*.ime</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.i</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.properti</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
-      <mask>*.pr</mask>
-      <mask>*.propr</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
