@@ -14,7 +14,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -86,6 +86,14 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
