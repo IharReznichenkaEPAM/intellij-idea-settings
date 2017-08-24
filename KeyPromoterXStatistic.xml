@@ -14,7 +14,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>56</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
