@@ -22,7 +22,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>112</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -151,6 +151,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ockpit-services.xml'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ockpit-services.xml'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
