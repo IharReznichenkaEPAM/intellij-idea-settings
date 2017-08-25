@@ -10,14 +10,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.ta</mask>
-      <mask>*.tag</mask>
       <mask>*.t</mask>
       <mask>*.imp</mask>
-      <mask>*.i</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.proper</mask>
@@ -26,6 +21,11 @@
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
