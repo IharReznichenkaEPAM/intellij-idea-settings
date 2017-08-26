@@ -5,10 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.t</mask>
       <mask>*.imp</mask>
       <mask>*.p</mask>
       <mask>*.im</mask>
@@ -37,6 +34,8 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
