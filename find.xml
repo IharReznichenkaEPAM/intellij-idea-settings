@@ -1,40 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="wizardConfig*" />
     <recentFileMasks>
-      <mask>*Wizard*.java</mask>
-      <mask>new*.impex</mask>
-      <mask>news-*.impex</mask>
-      <mask>news-mi*.impex</mask>
-      <mask>news-mig*.impex</mask>
-      <mask>news-migr*.impex</mask>
-      <mask>news-migration*.impex</mask>
-      <mask>*news-migration*.impex</mask>
-      <mask>&amp;.</mask>
-      <mask>&amp;</mask>
-      <mask>*</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.t</mask>
+      <mask>*.imp</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.prop</mask>
+      <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.im</mask>
-      <mask>*.imp</mask>
-      <mask>*.xnk</mask>
-      <mask>*.xn</mask>
+      <mask>*.impe</mask>
       <mask>*.impex</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>w</mask>
+      <mask>wiz</mask>
+      <mask>wizard</mask>
+      <mask>wizardC</mask>
+      <mask>wizardCo</mask>
+      <mask>wizardCon</mask>
+      <mask>wizardConf</mask>
+      <mask>wizardConfig</mask>
+      <mask>wizardConfig*</mask>
     </recentFileMasks>
   </component>
 </application>
