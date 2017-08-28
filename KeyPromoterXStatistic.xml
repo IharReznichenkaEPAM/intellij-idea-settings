@@ -22,7 +22,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>126</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>46</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">

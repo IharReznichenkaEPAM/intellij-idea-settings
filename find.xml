@@ -5,23 +5,20 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.t</mask>
-      <mask>*.imp</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.im</mask>
       <mask>*.impe</mask>
-      <mask>*.impex</mask>
       <mask>*.i</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
@@ -36,6 +33,10 @@
       <mask>wizardConf</mask>
       <mask>wizardConfig</mask>
       <mask>wizardConfig*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.imp</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
