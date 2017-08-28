@@ -7,23 +7,18 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.p</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.i</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
-      <mask>*.j</mask>
-      <mask>*.jsp</mask>
       <mask>w</mask>
       <mask>wiz</mask>
       <mask>wizard</mask>
@@ -36,6 +31,11 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.imp</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>.jsp</mask>
+      <mask>*.jsp</mask>
+      <mask>*.im</mask>
       <mask>*.impex</mask>
     </recentFileMasks>
   </component>
