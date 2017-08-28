@@ -6,28 +6,36 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.ta</mask>
-      <mask>*.tag</mask>
-      <mask>*.t</mask>
       <mask>*.imp</mask>
-      <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
+      <mask>w</mask>
+      <mask>wiz</mask>
+      <mask>wizard</mask>
+      <mask>wizardC</mask>
+      <mask>wizardCo</mask>
+      <mask>wizardCon</mask>
+      <mask>wizardConf</mask>
+      <mask>wizardConfig</mask>
+      <mask>wizardConfig*</mask>
+      <mask>*</mask>
+      <mask>*.op</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.pr</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
