@@ -1,19 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.t</mask>
+      <mask>*.imp</mask>
       <mask>*.p</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
+      <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.i</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp</mask>
       <mask>w</mask>
       <mask>wiz</mask>
       <mask>wizard</mask>
@@ -24,17 +25,17 @@
       <mask>wizardConfig</mask>
       <mask>wizardConfig*</mask>
       <mask>*</mask>
+      <mask>*.op</mask>
+      <mask>*.o</mask>
       <mask>*.</mask>
-      <mask>*.imp</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>.jsp</mask>
-      <mask>*.jsp</mask>
-      <mask>*.im</mask>
-      <mask>*.impex</mask>
+      <mask>*.pr</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
