@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*-beans.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>wizardC</mask>
       <mask>wizardCo</mask>
       <mask>wizardCon</mask>
       <mask>wizardConf</mask>
@@ -15,7 +14,6 @@
       <mask>wizardConfig*</mask>
       <mask>*.op</mask>
       <mask>*.o</mask>
-      <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
@@ -23,20 +21,22 @@
       <mask>*.properties</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.impex</mask>
       <mask>*.b</mask>
       <mask>*.be</mask>
       <mask>*.bea</mask>
       <mask>*.beans</mask>
       <mask>*.bean</mask>
-      <mask>*</mask>
-      <mask>*-</mask>
       <mask>*-be</mask>
       <mask>*-bea</mask>
       <mask>*-bean</mask>
       <mask>*-beans</mask>
       <mask>*-beans.</mask>
       <mask>*-beans.xml</mask>
+      <mask>*-</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.imp</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
