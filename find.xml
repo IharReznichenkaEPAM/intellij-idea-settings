@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>wizardConf</mask>
       <mask>wizardConfig</mask>
       <mask>wizardConfig*</mask>
       <mask>*.op</mask>
@@ -18,7 +17,6 @@
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.b</mask>
       <mask>*.be</mask>
       <mask>*.bea</mask>
@@ -37,6 +35,8 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.impex</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
