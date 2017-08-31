@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.b</mask>
-      <mask>*.be</mask>
       <mask>*.bea</mask>
       <mask>*.beans</mask>
       <mask>*.bean</mask>
@@ -36,6 +35,8 @@
       <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.impex</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
