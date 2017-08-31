@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>112</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
