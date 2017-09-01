@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*.bea</mask>
       <mask>*.beans</mask>
@@ -18,7 +18,6 @@
       <mask>*-beans.xml</mask>
       <mask>*-</mask>
       <mask>*</mask>
-      <mask>*.imp</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.xm</mask>
@@ -32,11 +31,12 @@
       <mask>*.oim</mask>
       <mask>*.oi</mask>
       <mask>*.o</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
-      <mask>*.impex</mask>
-      <mask>*.j</mask>
       <mask>*.json</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.imp</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
