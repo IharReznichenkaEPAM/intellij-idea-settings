@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="Selected Files" />
     <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.bea</mask>
-      <mask>*.beans</mask>
-      <mask>*.bean</mask>
-      <mask>*-be</mask>
       <mask>*-bea</mask>
       <mask>*-bean</mask>
       <mask>*-beans</mask>
@@ -20,10 +16,6 @@
       <mask>*.css</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.prop</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
       <mask>*.oiim</mask>
       <mask>*.oii</mask>
       <mask>*.oim</mask>
@@ -32,9 +24,17 @@
       <mask>*.i</mask>
       <mask>*.json</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.imp</mask>
       <mask>*.impex</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
