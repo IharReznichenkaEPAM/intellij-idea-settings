@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -273,6 +273,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'all'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'all'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'lynxintegrations'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'lynxintegrations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'products Sweden'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -319,6 +335,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Remote debug'</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'all'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'all'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'products Sweden'">
