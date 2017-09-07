@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*-bean</mask>
       <mask>*-beans</mask>
@@ -32,9 +31,9 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.impe</mask>
-      <mask>*.i</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.i</mask>
       <mask>*.impex</mask>
     </recentFileMasks>
   </component>
