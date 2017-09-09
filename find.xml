@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*-bean</mask>
       <mask>*-beans</mask>
@@ -19,14 +20,9 @@
       <mask>*.json</mask>
       <mask>*.j</mask>
       <mask>*.imp</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
       <mask>*.prop</mask>
-      <mask>*.proper</mask>
       <mask>*.propert</mask>
-      <mask>*.properti</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.impe</mask>
@@ -34,6 +30,11 @@
       <mask>*.xml</mask>
       <mask>*.i</mask>
       <mask>*.impex</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
