@@ -23,8 +23,6 @@
       <mask>*-s.xml</mask>
       <mask>*-sp.xml</mask>
       <mask>*-spring.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
       <mask>*im</mask>
       <mask>*i</mask>
       <mask>*</mask>
@@ -36,6 +34,8 @@
       <mask>*.pr</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
