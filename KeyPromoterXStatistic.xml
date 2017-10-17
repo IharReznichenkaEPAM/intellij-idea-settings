@@ -30,7 +30,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>267</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
