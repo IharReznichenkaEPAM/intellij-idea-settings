@@ -8,7 +8,6 @@
         <option value="OPEN_PROJECT" />
         <option value="ANT" />
         <option value="BUILD_PROJECT" />
-        <option value="RUN_TESTS" />
       </set>
     </option>
   </component>
