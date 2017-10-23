@@ -14,7 +14,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -23,6 +23,14 @@
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
