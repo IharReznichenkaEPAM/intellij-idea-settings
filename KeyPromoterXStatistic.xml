@@ -14,7 +14,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+O'</ShortCut>
           <Description>Close Others</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'demo [org.springframework.boot:spring-boot-maven-plugin:1.5.8.RELEASE:run]'">
@@ -70,6 +70,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'demo [org.springframework.boot:spring-boot-maven-plugin:1.5.8.RELEASE:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -126,7 +134,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
