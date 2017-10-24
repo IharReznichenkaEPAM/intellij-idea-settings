@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.impe</mask>
-      <mask>*.iimp</mask>
-      <mask>*.iim</mask>
       <mask>*.ii</mask>
       <mask>*.[er</mask>
       <mask>*.[e</mask>
@@ -36,6 +32,10 @@
       <mask>*.properties</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
+      <mask>*.v</mask>
+      <mask>*.vu</mask>
+      <mask>*.vue</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
