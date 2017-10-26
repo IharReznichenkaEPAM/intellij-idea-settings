@@ -2,29 +2,20 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.[er</mask>
-      <mask>*.[e</mask>
-      <mask>*.[</mask>
-      <mask>*.pe</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
-      <mask>*.xm</mask>
       <mask>*-.xml</mask>
       <mask>*-s.xml</mask>
       <mask>*-sp.xml</mask>
       <mask>*-spring.xml</mask>
       <mask>*im</mask>
       <mask>*i</mask>
-      <mask>*</mask>
       <mask>*.i</mask>
       <mask>*.p</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.pr</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
@@ -33,9 +24,16 @@
       <mask>*.vue</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
+      <mask>*.чьд</mask>
+      <mask>*.чь</mask>
+      <mask>*.ч</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
