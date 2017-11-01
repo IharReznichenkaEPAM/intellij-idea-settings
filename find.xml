@@ -3,14 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*backoffice*.xml" />
     <recentFileMasks>
-      <mask>*-sp.xml</mask>
-      <mask>*-spring.xml</mask>
-      <mask>*im</mask>
-      <mask>*i</mask>
-      <mask>*.i</mask>
-      <mask>*.x</mask>
-      <mask>*.pr</mask>
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
@@ -34,6 +28,13 @@
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*bak.xml</mask>
+      <mask>*ba.xml</mask>
+      <mask>*back.xml</mask>
+      <mask>*backof.xml</mask>
+      <mask>*backoffi.xml</mask>
+      <mask>*backoffice.xml</mask>
+      <mask>*backoffice*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
