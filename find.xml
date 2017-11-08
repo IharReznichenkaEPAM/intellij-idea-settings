@@ -3,15 +3,13 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.im</mask>
@@ -19,10 +17,15 @@
       <mask>*.impe</mask>
       <mask>*.impex</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.prop</mask>
+      <mask>*.propert</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
