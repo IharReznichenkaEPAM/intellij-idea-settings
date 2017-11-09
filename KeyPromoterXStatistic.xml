@@ -142,7 +142,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'demo [org.springframework.boot:spring-boot-maven-plugin:1.5.8.RELEASE:run]'">
