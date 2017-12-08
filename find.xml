@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.java</mask>
@@ -22,11 +21,11 @@
       <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
-      <mask>*.impex</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
