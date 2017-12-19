@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.java</mask>
@@ -24,13 +25,13 @@
       <mask>*ю</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*,</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
