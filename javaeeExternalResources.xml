@@ -8,6 +8,7 @@
     <resource url="http://www.hybris.com/schema/cockpitng/widget-definition.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/c0498b02_widget-definition.xsd" />
     <resource url="http://www.hybris.com/schema/cockpitng/widgets.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/ae547d75_widgets.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_2.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/1516d131_configuration_1_2.dtd" />
+    <resource url="http://www.puppycrawl.com/dtds/suppressions_1_1.dtd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/1ea4f47a_suppressions_1_1.dtd" />
     <resource url="http://www.zeroturnaround.com" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/20b583dc_rebel-2_1.xsd" />
     <resource url="http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/8ff37141_rebel-2_0.xsd" />
     <resource url="http://www.zkoss.org/2005/zk/client" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a96c2de1_client.html" />
