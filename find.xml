@@ -4,13 +4,8 @@
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.prop</mask>
-      <mask>*.propert</mask>
-      <mask>*ючьд</mask>
-      <mask>*ючь</mask>
       <mask>*юч</mask>
       <mask>*ю</mask>
-      <mask>*,</mask>
       <mask>*.xm,</mask>
       <mask>*.xm</mask>
       <mask>*.xm;l</mask>
@@ -27,13 +22,18 @@
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*.i</mask>
+      <mask>*.im</mask>
+      <mask>*.impex</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
+      <mask>*,xm</mask>
+      <mask>*,x</mask>
+      <mask>*,</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.i</mask>
-      <mask>*.im</mask>
-      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
