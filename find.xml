@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.prop</mask>
       <mask>*.propert</mask>
@@ -15,13 +16,9 @@
       <mask>*.xm</mask>
       <mask>*.xm;l</mask>
       <mask>*.xm;</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.prioertu</mask>
       <mask>*.prioert</mask>
@@ -34,6 +31,10 @@
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
