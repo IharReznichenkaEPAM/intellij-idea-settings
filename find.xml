@@ -3,37 +3,38 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.p</mask>
       <mask>*.prop</mask>
       <mask>*.propert</mask>
-      <mask>*.properties</mask>
       <mask>*ючьд</mask>
       <mask>*ючь</mask>
       <mask>*юч</mask>
       <mask>*ю</mask>
       <mask>*,</mask>
-      <mask>*</mask>
       <mask>*.xm,</mask>
       <mask>*.xm</mask>
       <mask>*.xm;l</mask>
       <mask>*.xm;</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.impex</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.prioertu</mask>
+      <mask>*.prioert</mask>
+      <mask>*.prioer</mask>
+      <mask>*.prioe</mask>
+      <mask>*.prio</mask>
+      <mask>*.pri</mask>
+      <mask>*.pr</mask>
+      <mask>*.pror</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
