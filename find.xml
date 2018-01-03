@@ -17,7 +17,6 @@
       <mask>*,x</mask>
       <mask>*,</mask>
       <mask>*.imp</mask>
-      <mask>*.p</mask>
       <mask>*.uim</mask>
       <mask>*.ui</mask>
       <mask>*.u</mask>
@@ -25,13 +24,14 @@
       <mask>*.impe</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
       <mask>*.xm</mask>
       <mask>*.i</mask>
       <mask>*.impex</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
