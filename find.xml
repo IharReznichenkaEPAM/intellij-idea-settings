@@ -3,8 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.prioe</mask>
       <mask>*.prio</mask>
       <mask>*.pri</mask>
       <mask>*.pr</mask>
@@ -19,21 +19,22 @@
       <mask>*.imp</mask>
       <mask>*.uim</mask>
       <mask>*.ui</mask>
-      <mask>*.u</mask>
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.xm</mask>
       <mask>*.i</mask>
-      <mask>*.impex</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.um</mask>
+      <mask>*.u</mask>
+      <mask>*.</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
