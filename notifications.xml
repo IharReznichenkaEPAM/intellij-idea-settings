@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Configure Kotlin in Project" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
