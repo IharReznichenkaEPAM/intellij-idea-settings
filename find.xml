@@ -6,16 +6,10 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.xm</mask>
-      <mask>*.i</mask>
       <mask>*.p</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.x</mask>
-      <mask>*.um</mask>
-      <mask>*.xml</mask>
       <mask>e.xml</mask>
       <mask>ex.xml</mask>
       <mask>exten.xml</mask>
@@ -29,13 +23,19 @@
       <mask>extensionin.xml</mask>
       <mask>extensioninfo..xml</mask>
       <mask>extensioninfo.xml</mask>
-      <mask>*</mask>
       <mask>*.uim</mask>
       <mask>*.ui</mask>
+      <mask>*</mask>
+      <mask>*.ump</mask>
+      <mask>*.um</mask>
       <mask>*.u</mask>
       <mask>*.</mask>
+      <mask>*.i</mask>
       <mask>*.im</mask>
+      <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
