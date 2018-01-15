@@ -3,11 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*backoffice*.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>extension.xml</mask>
-      <mask>extensioni.xml</mask>
-      <mask>extensionin.xml</mask>
       <mask>extensioninfo..xml</mask>
       <mask>extensioninfo.xml</mask>
       <mask>*.uim</mask>
@@ -15,14 +12,10 @@
       <mask>*.ump</mask>
       <mask>*.um</mask>
       <mask>*.u</mask>
-      <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.x</mask>
-      <mask>*.impex</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
       <mask>*b</mask>
       <mask>*bac</mask>
       <mask>*back</mask>
@@ -35,6 +28,13 @@
       <mask>*backoffice*.</mask>
       <mask>*backoffice*.x</mask>
       <mask>*backoffice*.xml</mask>
+      <mask>*,u</mask>
+      <mask>*,</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.imp</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
