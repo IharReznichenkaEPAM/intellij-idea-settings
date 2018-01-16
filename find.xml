@@ -3,17 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.vm" />
     <recentFileMasks>
-      <mask>extensioninfo..xml</mask>
-      <mask>extensioninfo.xml</mask>
-      <mask>*.uim</mask>
-      <mask>*.ui</mask>
-      <mask>*.ump</mask>
-      <mask>*.um</mask>
-      <mask>*.u</mask>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*b</mask>
       <mask>*bac</mask>
@@ -29,11 +20,21 @@
       <mask>*backoffice*.xml</mask>
       <mask>*,u</mask>
       <mask>*,</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.i</mask>
       <mask>*.imp</mask>
+      <mask>*.impe</mask>
+      <mask>*.j</mask>
+      <mask>*.jp</mask>
+      <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.im</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.мь</mask>
+      <mask>*.м</mask>
+      <mask>*.</mask>
+      <mask>*.n</mask>
+      <mask>*.v</mask>
+      <mask>*.vm</mask>
     </recentFileMasks>
   </component>
 </application>
