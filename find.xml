@@ -3,8 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*backoffice</mask>
       <mask>*backoffice*</mask>
       <mask>*backoffice*.</mask>
       <mask>*backoffice*.x</mask>
@@ -34,6 +34,7 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
