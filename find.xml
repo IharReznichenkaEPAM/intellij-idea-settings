@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*backoffice*</mask>
       <mask>*backoffice*.</mask>
@@ -28,7 +29,6 @@
       <mask>*.uim</mask>
       <mask>*.ui</mask>
       <mask>*.u</mask>
-      <mask>*.impex</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x,</mask>
@@ -36,6 +36,7 @@
       <mask>*.xm</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
