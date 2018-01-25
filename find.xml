@@ -5,38 +5,16 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
-    <recentFileMasks>
-      <mask>*backoffice*</mask>
-      <mask>*backoffice*.</mask>
-      <mask>*backoffice*.x</mask>
-      <mask>*backoffice*.xml</mask>
-      <mask>*,u</mask>
-      <mask>*,</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.j</mask>
-      <mask>*.jp</mask>
-      <mask>*.jsp</mask>
-      <mask>*.im</mask>
-      <mask>*.i</mask>
-      <mask>*.мь</mask>
-      <mask>*.м</mask>
-      <mask>*.n</mask>
-      <mask>*.v</mask>
-      <mask>*.vm</mask>
-      <mask>*.uimp</mask>
-      <mask>*.uim</mask>
-      <mask>*.ui</mask>
-      <mask>*.u</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x,</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.properties</mask>
-      <mask>*.impex</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.impex" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
