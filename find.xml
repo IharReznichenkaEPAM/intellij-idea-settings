@@ -8,7 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*backoffice*.x</mask>
       <mask>*backoffice*.xml</mask>
       <mask>*,u</mask>
       <mask>*,</mask>
@@ -34,10 +33,11 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.properties</mask>
-      <mask>*.impex</mask>
       <mask>*.xml</mask>
       <mask>*.IMPEX</mask>
       <mask>*-config.xml</mask>
+      <mask>*items.xml</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
