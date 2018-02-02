@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*items.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
       <mask>*backoffice*.xml</mask>
       <mask>*,u</mask>
@@ -34,11 +34,11 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.properties</mask>
-      <mask>*.impex</mask>
       <mask>*.xml</mask>
       <mask>*.IMPEX</mask>
       <mask>*-config.xml</mask>
       <mask>*items.xml</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
