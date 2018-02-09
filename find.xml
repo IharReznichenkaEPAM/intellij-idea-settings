@@ -11,7 +11,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.properties</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
