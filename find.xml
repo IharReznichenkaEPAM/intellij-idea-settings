@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -17,6 +15,8 @@
       <mask>*.impex</mask>
       <mask>*.xml</mask>
       <mask>*-items.xml</mask>
+      <mask>*_en.properties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
