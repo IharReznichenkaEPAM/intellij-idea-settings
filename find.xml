@@ -3,16 +3,19 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.xml</mask>
-    <mask>*.properties</mask>
-    <mask>*.impex</mask>
-    <mask>*DTO.java</mask>
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.impex</mask>
+      <mask>*.xml</mask>
+      <mask>*-items.xml</mask>
+      <mask>*_en.properties</mask>
+      <mask>*.properties</mask>
+    </recentFileMasks>
   </component>
 </application>
