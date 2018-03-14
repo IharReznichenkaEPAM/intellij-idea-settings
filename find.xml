@@ -15,5 +15,6 @@
     <mask>*.vue</mask>
     <mask>*items.xml</mask>
     <mask>*.impex</mask>
+    <mask>*spring.xml</mask>
   </component>
 </application>
