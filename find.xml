@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.vue</mask>
     <mask>*items.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
