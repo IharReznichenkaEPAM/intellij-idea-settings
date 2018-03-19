@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,7 @@
     <mask>*items.xml</mask>
     <mask>*bean.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.vue</mask>
     <mask>*.impex</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
