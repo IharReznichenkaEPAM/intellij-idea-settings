@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -14,8 +14,9 @@
     <mask>*spring.xml</mask>
     <mask>*items.xml</mask>
     <mask>*bean.xml</mask>
-    <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.vue</mask>
+    <mask>*.impex</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
